@@ -9,4 +9,4 @@ Wrote this for fun, may improve in the future.
 ## How to use?
 1. Download index.js and package-lock.json
 2. Run npm install
-3. Run node .
+3. Run node src/app
