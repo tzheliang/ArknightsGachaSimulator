@@ -1,0 +1,252 @@
+[
+  {
+    "rarity": "6",
+    "name": "SilverAsh",
+    "class": "Guard"
+  },
+  {
+    "rarity": "6",
+    "name": "Angelina",
+    "class": "Supporter"
+  },
+  {
+    "rarity": "6",
+    "name": "Exusiai",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "6",
+    "name": "Hoshiguma",
+    "class": "Defender"
+  },
+  {
+    "rarity": "6",
+    "name": "Siege",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "5",
+    "name": "Ptilopsis",
+    "class": "Medic"
+  },
+  {
+    "rarity": "5",
+    "name": "Zima",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "5",
+    "name": "Platinum",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "5",
+    "name": "Bluepoison",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "5",
+    "name": "Franka",
+    "class": "Guard"
+  },
+  {
+    "rarity": "5",
+    "name": "Texas",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "5",
+    "name": "Liskarm",
+    "class": "Defender"
+  },
+  {
+    "rarity": "5",
+    "name": "Lappland",
+    "class": "Guard"
+  },
+  {
+    "rarity": "5",
+    "name": "Spectre",
+    "class": "Guard"
+  },
+  {
+    "rarity": "5",
+    "name": "Skyfire",
+    "class": "Caster"
+  },
+  {
+    "rarity": "5",
+    "name": "Silence",
+    "class": "Medic"
+  },
+  {
+    "rarity": "5",
+    "name": "Nearl",
+    "class": "Defender"
+  },
+  {
+    "rarity": "5",
+    "name": "Projekt Red",
+    "class": "Specialist"
+  },
+  {
+    "rarity": "5",
+    "name": "Pramanix",
+    "class": "Supporter"
+  },
+  {
+    "rarity": "5",
+    "name": "Istina",
+    "class": "Supporter"
+  },
+  {
+    "rarity": "4",
+    "name": "Haze",
+    "class": "Caster"
+  },
+  {
+    "rarity": "4",
+    "name": "Cuora",
+    "class": "Defender"
+  },
+  {
+    "rarity": "4",
+    "name": "Gitano",
+    "class": "Caster"
+  },
+  {
+    "rarity": "4",
+    "name": "Vigna",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "4",
+    "name": "Jessica",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "4",
+    "name": "Earthspirit",
+    "class": "Supporter"
+  },
+  {
+    "rarity": "4",
+    "name": "Meteor",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "4",
+    "name": "Shirayuki",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "4",
+    "name": "Scavenger",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "4",
+    "name": "Dobermann",
+    "class": "Guard"
+  },
+  {
+    "rarity": "4",
+    "name": "Matoimaru",
+    "class": "Guard"
+  },
+  {
+    "rarity": "4",
+    "name": "Mousse",
+    "class": "Guard"
+  },
+  {
+    "rarity": "4",
+    "name": "Gravel",
+    "class": "Specialist"
+  },
+  {
+    "rarity": "4",
+    "name": "Rope",
+    "class": "Specialist"
+  },
+  {
+    "rarity": "4",
+    "name": "Myyrh",
+    "class": "Medic"
+  },
+  {
+    "rarity": "4",
+    "name": "Perfumer",
+    "class": "Medic"
+  },
+  {
+    "rarity": "4",
+    "name": "Matterhorn",
+    "class": "Defender"
+  },
+  {
+    "rarity": "4",
+    "name": "Deepcolor",
+    "class": "Supporter"
+  },
+  {
+    "rarity": "3",
+    "name": "Fang",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "3",
+    "name": "Vanilla",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "3",
+    "name": "Plume",
+    "class": "Vanguard"
+  },
+  {
+    "rarity": "3",
+    "name": "Melantha",
+    "class": "Guard"
+  },
+  {
+    "rarity": "3",
+    "name": "Cardigan",
+    "class": "Defender"
+  },
+  {
+    "rarity": "3",
+    "name": "Beagle",
+    "class": "Defender"
+  },
+  {
+    "rarity": "3",
+    "name": "Kroos",
+    "class": "Sniper"
+  },
+  {
+    "rarity": "3",
+    "name": "Lava",
+    "class": "Caster"
+  },
+  {
+    "rarity": "3",
+    "name": "Orchid",
+    "class": "Supporter"
+  },
+  {
+    "rarity": "3",
+    "name": "Hibisucus",
+    "class": "Medic"
+  },
+  {
+    "rarity": "3",
+    "name": "Ansel",
+    "class": "Medic"
+  },
+  {
+    "rarity": "3",
+    "name": "Steward",
+    "class": "Caster"
+  }
+]
